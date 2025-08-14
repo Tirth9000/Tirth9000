@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirth9000" alt="tirth9000" /></a> </p>
 
-- 🔭 I’m currently working on **Analytica Hub**
+- 🔭 I’m currently working on **SelfOps** -its an lightweight tool for dockerized application.
 
-- 🌱 I’m currently learning **React and Django Rest Framework (DRF)**
+- 🌱 I’m currently learning **FastAPI and Django Rest Framework (DRF)**
 
 - 📫 How to reach me **sharmatirth09012@gmail.com**
 
