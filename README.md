@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirth9000" alt="tirth9000" /></a> </p>
 
-- 🔭 I’m currently working on **SelfOps** -its an lightweight tool for dockerized application.
+- 🔭 I’m currently working on **SelfOps** - its an unified monitoring and managing tool for dockerized application.
 
 - 🌱 I’m currently learning **FastAPI and Django Rest Framework (DRF)**
 
