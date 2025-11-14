@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tirth Sharma</h1>
 <h3 align="center">I'm a Final Year CSE student passionate about Backend Development, Django, and DRF. Solved 75+ LeetCode problems, learning advance backend techonologies and patterns. 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tirth9000&label=Profile%20views&color=0e75b6&style=flat" alt="tirth9000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirth9000" alt="tirth9000" /></a> </p>
 
