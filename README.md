@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Final Year CSE student passionate about Python Backend Development. Solved 80+ LeetCode problems, learning advance backend techonologies and patterns. 🚀</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirth9000" alt="tirth9000" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirth9000" alt="tirth9000" /></a> </p> -->
 
 - 🔭 I’m currently working on **SelfOps** - its an unified monitoring and managing tool for dockerized application.
 
